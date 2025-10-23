@@ -254,13 +254,8 @@ If you use PocketGenie in your research or project, please cite:
 ```bibtex
 @software{pocketgenie2024,
   title={PocketGenie: AI-Powered Mobile Productivity Assistant},
-  author=Shenulal Bhaskaran,
+  author={Shenulal Bhaskaran},
   year={2025},
   url={https://github.com/shenulal/PocketGenie}
 }
 ```
-
----
-
-**Made with ❤️ for productivity enthusiasts and developers**
-
