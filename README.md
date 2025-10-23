@@ -233,7 +233,7 @@ flutter build ios
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername) - Creator & Lead Developer
+- [Shenulal Bhaskaran](https://github.com/shenulal) - Creator & Lead Developer
 
 ## Acknowledgments
 
