@@ -224,23 +224,6 @@ flutter build ios
 - Input validation and sanitization
 - Rate limiting (ready for implementation)
 
-## Roadmap
-
-### Q1 2024
-- [ ] Voice input implementation
-- [ ] Multi-device sync
-- [ ] Export functionality
-
-### Q2 2024
-- [ ] Calendar integration
-- [ ] Collaborative features
-- [ ] Advanced analytics
-
-### Q3 2024
-- [ ] Mobile app store releases
-- [ ] Community plugins
-- [ ] Third-party integrations
-
 ## Support & Community
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/PocketGenie/issues)
