@@ -226,8 +226,8 @@ flutter build ios
 
 ## Support & Community
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/PocketGenie/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/PocketGenie/discussions)
+- **Issues**: [GitHub Issues](https://github.com/shenulal/PocketGenie/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/shenulal/PocketGenie/discussions)
 - **Documentation**: See `/docs` folder
 - **Contributing**: See [CONTRIBUTING.md](./docs/CONTRIBUTING.md)
 
@@ -252,7 +252,7 @@ This project is licensed under the MIT License - see [LICENSE](./LICENSE) file f
 If you use PocketGenie in your research or project, please cite:
 
 ```bibtex
-@software{pocketgenie2024,
+@software{pocketgenie2025,
   title={PocketGenie: AI-Powered Mobile Productivity Assistant},
   author={Shenulal Bhaskaran},
   year={2025},
