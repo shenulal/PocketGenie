@@ -254,9 +254,9 @@ If you use PocketGenie in your research or project, please cite:
 ```bibtex
 @software{pocketgenie2024,
   title={PocketGenie: AI-Powered Mobile Productivity Assistant},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/PocketGenie}
+  author=Shenulal Bhaskaran,
+  year={2025},
+  url={https://github.com/shenulal/PocketGenie}
 }
 ```
 
